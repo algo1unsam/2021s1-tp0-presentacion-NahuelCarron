@@ -1,6 +1,8 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante:  Nahuel Carron
+
+Soy estudiante de programacion informatica en la UNSAM y me parece que este cuatri se viene con fritas 
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
